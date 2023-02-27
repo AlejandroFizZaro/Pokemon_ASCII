@@ -8,7 +8,7 @@
   npm i core-node-pokemon-ascii-format
 ```
 
-1. Ejecuta:
+1. Ejecuta en la consola el siguiente código:
 
 ```bash
   npm run start:pokedex
